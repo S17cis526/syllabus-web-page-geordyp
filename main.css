@@ -1,0 +1,44 @@
+body {
+  width: 100%;
+  max-width: 600px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #DDD8B8;
+  font-family: Rubik;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #293241;
+}
+
+a {
+  color: #57B8FF;
+}
+
+a:hover {
+  color: #D33F49;
+}
+
+table,
+th,
+td {
+   border: 1px solid #293241;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  height: 60px;
+}
